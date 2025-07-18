@@ -1,0 +1,100 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  width: 100%;
+  font-size: 16px;
+  color: hsl(30, 10%, 34%);
+  box-sizing: border-box;
+}
+img {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+.container {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 0 19px 25px;
+  
+}
+
+p {
+  font-size: 14px;
+}
+h1 {
+  line-height: 2rem;
+}
+.div-2 {
+  background-color: hsl(330, 100%, 98%);
+  padding: 4px 15px;
+  line-height: 1.5;
+  border-radius: 15px;
+}
+.p-2 {
+  color: hsl(332, 51%, 32%);
+  font-weight: 900;
+  font-size: 18px;
+  padding-left: 10px;
+}
+.div-3, .div-4 {
+  line-height: 1.9;
+  font-size: 15px;
+}
+.div-3 h2, .div-5 h2, .div-4 h2 {
+  color: hsl(332, 51%, 32%);
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+ line-height: 2rem;
+}
+
+tr {
+  border-bottom: 1px solid #ddd;
+}
+tr:last-child {
+  border-bottom: none;
+}
+hr {
+  border: none;
+  height: 0.5px;
+  background-color: rgb(214, 207, 207);
+}
+
+.amounts {
+  color: hsl(332, 51%, 32%);
+  font-weight: 800;
+}
+@media screen and (max-width: 425px) {
+  body {
+    font-size: 16px;
+    max-width:100%;
+    min-width: 320px;
+    }
+  
+}
+
+/* Small Desktop (min-width: 900px) */
+@media screen and (min-width: 768px) {
+  body {
+    background-color: hsl(330, 100%, 98%);
+  }
+  .g-container {
+    max-width: 680px;
+    display: block;
+    margin: 5% auto;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  img {
+    padding: 19px;
+    width: 95%;
+    border-radius: 25px;
+  }
+  
+}

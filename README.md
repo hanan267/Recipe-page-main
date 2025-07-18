@@ -1,7 +1,7 @@
 
 # Frontend Mentor - Recipe Page Solution
 
-This is my solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). This challenge helped me strengthen my HTML and CSS skills by building a clean, responsive layout.
+This is my solution to the [Recipe page challenge on Frontend Mentor](https://github.com/hanan267/Recipe-page-main). This challenge helped me strengthen my HTML and CSS skills by building a clean, responsive layout.
 
 ## Table of Contents
 
@@ -16,18 +16,18 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
   * [Continued Development](#continued-development)
   * [Useful Resources](#useful-resources)
 * [Author](#author)
-* [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./screenshot.PNG)
 
 ### Links
 
-* [Solution on Frontend Mentor](https://your-solution-url.com)
-* [Live Site](https://your-live-site-url.com)
+* [Solution on Frontend Mentor](https://github.com/hanan267/Recipe-page-main)
+* [Live Site](https://hanan267.github.io/Recipe-page-main/)
 
 ## My Process
 
@@ -38,9 +38,7 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 * Flexbox
 * CSS Grid
 * Mobile-first workflow
-* [React](https://reactjs.org/) (if used)
-* [Next.js](https://nextjs.org/) (if used)
-* [Styled Components](https://styled-components.com/) (if used)
+
 
 ### What I Learned
 
@@ -69,8 +67,8 @@ I plan to continue focusing on:
 
 ## Author
 
-* GitHub – [@yourusername](https://github.com/yourusername)
-* Frontend Mentor – [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+* GitHub – (https://github.com/hanan267)
+* Frontend Mentor – (https://www.frontendmentor.io/profile/hanan267)
 
 ## Acknowledgments
 
